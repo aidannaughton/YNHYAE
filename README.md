@@ -14,10 +14,10 @@ Created to document and preserve the unfolding mystery, this repository serves a
 
 ## WHAT'S INSIDE
 
-- **Media Archive** — Collected images, audio, videos, documents, and other material connected to the ARG.
-- **Puzzle Solutions** — Documented solutions, decoded messages, and explanations of the methods used to uncover them.
-- **Lore & Story** — Information about characters, events, locations, and the evolving narrative.
-- **Connections & Theories** — Observations and possible connections between discoveries, including mysteries that remain unresolved.
+- **The Prologue** — Starts with HIRAETH in November 2025 and moves through VESTIGE, ANIMA, MIRROR, SANCTUARY, EREMITIS, EXSILIUM, SIGILS, CLOUDS, and Windows.
+- **Chapter 1** — Contains Threshold, RECORD, CLAIM, MOTION, SEVER, and LARKSPUR, along with investigations into Oracle Echo, the Sanctuary Map, and VESTIGE.
+- **Decoding Tools** — Includes sigil reference material and common cipher decoding tools.
+- **Live Events & Other Evidence** — Includes the WITNESS event, Cerulean, and archived social-media evidence.
 
 ## EXPLORING THE ARCHIVES
 
