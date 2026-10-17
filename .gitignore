@@ -1,0 +1,36 @@
+# Local Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/bookmarks.json
+
+# Obsidian Publish configuration
+.obsidian/publish.json
+
+# Local Obsidian settings
+.obsidian/app.json
+.obsidian/hotkeys.json
+.obsidian/graph.json
+
+# Installed plugins and their local data
+.obsidian/plugins/
+
+# System-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Private notes (if you create this folder)
+Private/
+Drafts/
+
+# Local secrets, if ever added
+.env
+.env.*
+!.env.example
+
